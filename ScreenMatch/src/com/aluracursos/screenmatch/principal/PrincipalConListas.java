@@ -20,8 +20,6 @@ public class PrincipalConListas {
         Serie casaDragon = new Serie("La casa del Dragón", 2022);
         casaDragon.evalua(8.6);
 
-
-
         List<Titulo> lista = new LinkedList<>();
         lista.add(miPelicula);
         lista.add(otraPelicula);
